@@ -21,7 +21,7 @@ A simple 2D multiplayer online game with combat, user authentication, and a shar
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/2d-mmo-game.git
+git clone https://github.com/jbdanura/game
 cd 2d-mmo-game
 ```
 
