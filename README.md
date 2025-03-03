@@ -22,7 +22,7 @@ A simple 2D multiplayer online game with combat, user authentication, and a shar
 1. Clone the repository:
 ```
 git clone https://github.com/jbdanura/game
-cd 2d-mmo-game
+cd game
 ```
 
 2. Install the required packages:
