@@ -42,3 +42,7 @@ desktop.ini
 .project
 .pydevproject
 .settings/
+
+Include
+Lib
+Scripts
